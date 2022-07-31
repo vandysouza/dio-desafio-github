@@ -1,1 +1,12 @@
-Link para download do Git: https://git-scm.com/downloads
+	Neste curso aprendi os comando basicos do Git ,desde criar um repositório, clonar ele localmente, entre outros comando pelo Git Bash.
+
+	- Git status : Usado para obetr o status completo do repositorio.
+	- Git Clone: Usado para clonar um reposotiorio que esteja hospedado remotamente para um ambiente local, através do endereço desse repositório
+	- Git pull: Busca e baixa todas as alterações e atualizações de um repositorio remoto para o local, fazendo co que os dois ambientes estejam 
+sincronizados com a mesma versão
+	- Git push: Usado para enviar o conteudo de um repositorio local para um remoto
+	- Git commit: Usado para capturar o estado de um projeto naquele momento, como uma foto.
+	- Git add . : Usado para realizar inclusão ou modificações do arquivo no diretorio local preparando-o para ser enviado ao diretorio remoto.
+	- Git init: Usado para criar/iniciar um novo repositorio do Git
+
+	
